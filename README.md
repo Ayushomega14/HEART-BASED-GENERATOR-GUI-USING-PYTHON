@@ -21,6 +21,6 @@ The Heart Rate Viewer is a Python application with a graphical user interface (G
 To run the Heart Rate Viewer, make sure you have Python installed. Clone the repository and execute the script.
 
 ```bash
-git clone https://github.com/your-username/heart-rate-viewer.git
+git clone https://github.com/Ayushomega14/heart-rate-viewer.git
 cd heart-rate-viewer
 python heart_rate_viewer.py
